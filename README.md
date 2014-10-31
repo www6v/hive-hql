@@ -1,4 +1,4 @@
-hiveµÄhql
+ï»¿hiveçš„hql
 ==============
 
-ÊÖ¹¤Ð´µÄhqlºÍshellÉú³ÉµÄhql¡£
+æ‰‹å·¥å†™çš„hqlå’Œshellç”Ÿæˆçš„hqlã€‚
